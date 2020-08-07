@@ -1,3 +1,11 @@
+'''
+Title : Bluetooth plot A
+Author : R M Lakruwan @ Noone
+Date : 07 Aug 2020
+Compatibality : Python 3
+version : 1.0
+'''
+
 import serial
 import time
 import re
