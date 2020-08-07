@@ -14,7 +14,8 @@
 
 - [Python File Object](https://docs.python.org/2.4/lib/bltin-file-objects.html) - Documentation on python File Handling.
 - [Python Socket ](https://docs.python.org/3/library/socket.html) - Documentation on python Low-level networking interface.
-- [Python Serial ](https://pyserial.readthedocs.io/en/latest/shortintro.html) - Documentation on pySerial
+- [Python Serial ](https://pyserial.readthedocs.io/en/latest/shortintro.html) - Documentation on pySerial Serial Port Extension
+- [Python Matplotlib ](https://matplotlib.org) - Documentation on Matplotlib Visualization with Python
 
 ## License
 GNU General Public License Version 3, 29 June 2007
