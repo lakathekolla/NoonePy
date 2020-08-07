@@ -7,11 +7,13 @@
 
 - File Handling
 - Socket Handling
+- Bluetooth Helping
 
 ## Related
 
 - [Python File Object](https://docs.python.org/2.4/lib/bltin-file-objects.html) - Documentation on python File Handling.
 - [Python Socket ](https://docs.python.org/3/library/socket.html) - Documentation on python Low-level networking interface.
+- [Python Serial ](https://pyserial.readthedocs.io/en/latest/shortintro.html) - Documentation on pySerial
 
 ## License
 GNU General Public License Version 3, 29 June 2007
